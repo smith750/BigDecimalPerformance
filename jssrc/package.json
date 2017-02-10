@@ -1,0 +1,7 @@
+{
+  "name": "BigNumberPerformance",
+  "version": "0.0.1",
+  "dependencies": {
+    "bignumber.js": "4.0.0",
+  }
+}
